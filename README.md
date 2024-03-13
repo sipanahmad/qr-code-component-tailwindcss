@@ -30,8 +30,8 @@ Desktop Design Under Hover Effect
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub)
+- Live Site URL: [Demo](https://qr-code-component-tailwindcss.vercel.app/)
 
 ## My process
 
