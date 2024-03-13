@@ -21,9 +21,12 @@ The QR code component challenge tasks participants with building a user interfac
    - Measuring your Designing skills.
 
 ### Screenshot
-
+Desktop Design
 ![](./screenshots/desktop-design.png)
 
+Desktop Design Under Hover Effect
+
+![](./screenshots/desktop-design-hover.png)
 
 ### Links
 
