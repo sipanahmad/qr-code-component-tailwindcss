@@ -23,9 +23,7 @@ The QR code component challenge tasks participants with building a user interfac
 ### Screenshot
 
 ![](./screenshots/desktop-design.png)
-![](./screenshots/desktop-design-hover.png)
-![](./screenshots/mobile-design.png)
-![](./screenshots/mobile-design-hover.png)
+
 
 ### Links
 
